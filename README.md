@@ -3,6 +3,7 @@ I am a student majoring in Computer Science and Math. I am passionate about web 
 
 ### Projects
 - [Learn Together](https://github.com/mazx4960/learntogether)
+- [Ezbackend App](https://github.com/marcuspang/ezbackend-app)
 
 ### Github Stats
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcuspang&count_private=true&theme=dracula)
