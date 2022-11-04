@@ -5,6 +5,7 @@ I'm a student majoring in Computer Science and Math. I am passionate about web d
 - [Learn Together - LifeHack 2021](https://github.com/mazx4960/learntogether)
 - [101-Daomations - Hack and Roll 2022](https://github.com/tanyonghe/101-DAOmatians)
 - [wentoken - NUS FinTech Hackathon 2022](https://github.com/marcuspang/wentoken)
+- [DeCoop - Crypto.com Hackathon 2022](https://github.com/marcuspang/decoop)
 
 ### Projects
 - [LifeHack 2022 Website](https://github.com/marcuspang/lifehack-2022-website)
