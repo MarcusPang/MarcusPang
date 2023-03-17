@@ -7,7 +7,7 @@ I'm a student majoring in Computer Science and Math. I am passionate about web d
 - [wentoken - NUS FinTech Hackathon 2022](https://github.com/marcuspang/wentoken)
 - [DeCoop - Crypto.com Hackathon 2022](https://github.com/marcuspang/decoop)
 - [Alfred Protocol - Polygon @ the Pit 2023](https://github.com/Alfred-Protocol)
-- [BountiFi - dotGlobal Polkadot Hackathon 2023](https://github.com/polkadot-bountify)
+- [BountiFi - dotGlobal Polkadot Hackathon 2023](https://github.com/polkadot-bountifi)
 - [DevFi - Solana Grizzlython 2023](https://github.com/solana-devfi)
 
 ### Projects
