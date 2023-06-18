@@ -9,6 +9,8 @@ I'm a student majoring in Computer Science and Math. I am passionate about web d
 - [Alfred Protocol - Polygon @ the Pit 2023](https://github.com/Alfred-Protocol)
 - [BountiFi - dotGlobal Polkadot Hackathon 2023](https://github.com/polkadot-bountifi)
 - [DevFi - Solana Grizzlython 2023](https://github.com/solana-devfi)
+- [Account Abstraction Builder - ETHTokyo 2023](https://github.com/marcuspang/account-abstraction-builder)
+- [Programmatic NFTs - Web3 Gaming Week 2023](https://github.com/marcuspang/programmatic-nfts)
 
 ### Projects
 - [LifeHack 2022 Website](https://github.com/marcuspang/lifehack-2022-website)
