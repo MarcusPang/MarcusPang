@@ -1,5 +1,6 @@
 ### Hi! 👋
-I'm a student majoring in Computer Science and Math. I am passionate about web development, and currently learning more about machine learning and building dApps.
+
+I make dApps and love going to hackathons.
 
 ### Hackathons
 
