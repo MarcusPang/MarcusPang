@@ -5,11 +5,9 @@ I'm a student majoring in Computer Science and Math. I am passionate about web d
 
 See [here](https://marcuspang.me#past-hackathons)
 
-### Other Projects
-- [LifeHack 2022 Website](https://github.com/marcuspang/lifehack-2022-website)
-- [CVWO 2022 Submission](https://github.com/marcuspang/cvwo)
-- [EzBackend App](https://github.com/marcuspang/ezbackend-app)
-- [Multi-Signature Wallets](https://github.com/NUS-Fintech-Society/BC_multisig)
+### Projects
+
+- [RADAR Launch](https://github.com/radarDAO-xyz) 
 
 ### Github Stats
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcuspang&count_private=true&theme=dracula)
